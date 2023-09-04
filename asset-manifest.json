@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TunerBot_Page/static/css/main.a3fb2984.css",
-    "main.js": "/TunerBot_Page/static/js/main.be80ce95.js",
+    "main.js": "/TunerBot_Page/static/js/main.895c8c82.js",
     "static/media/helpCommand.png": "/TunerBot_Page/static/media/helpCommand.ba03a8f0354df169c78e.png",
     "static/media/lalaicon.png": "/TunerBot_Page/static/media/lalaicon.9e0a52fb2eb6abd4dc0c.png",
     "index.html": "/TunerBot_Page/index.html",
     "main.a3fb2984.css.map": "/TunerBot_Page/static/css/main.a3fb2984.css.map",
-    "main.be80ce95.js.map": "/TunerBot_Page/static/js/main.be80ce95.js.map"
+    "main.895c8c82.js.map": "/TunerBot_Page/static/js/main.895c8c82.js.map"
   },
   "entrypoints": [
     "static/css/main.a3fb2984.css",
-    "static/js/main.be80ce95.js"
+    "static/js/main.895c8c82.js"
   ]
 }
