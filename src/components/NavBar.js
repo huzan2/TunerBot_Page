@@ -13,7 +13,7 @@ const menu = [
   {
     name: "홈",
     description: "튜너봇 메인 페이지",
-    href: "/TunerBot_Page/",
+    href: "/TunerBot_Page/home",
     icon: HomeIcon,
   },
   {

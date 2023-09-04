@@ -1,7 +1,7 @@
 export default function Logo() {
   return (
     <div className="text-center mt-3 ">
-      <a href="/TunerBot_Page/">
+      <a href="/TunerBot_Page/home">
         <p className="text-xs font-normal font-sans">
           메이플스토리 유틸리디 디스코드 봇
         </p>
