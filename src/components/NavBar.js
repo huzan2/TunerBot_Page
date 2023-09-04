@@ -13,25 +13,25 @@ const menu = [
   {
     name: "홈",
     description: "튜너봇 메인 페이지",
-    href: "/",
+    href: "/TunerBot_Page/",
     icon: HomeIcon,
   },
   {
     name: "설명서",
     description: "튜너봇 사용설명서",
-    href: "/detail",
+    href: "/TunerBot_Page/detail",
     icon: BookOpenIcon,
   },
   {
     name: "튜너봇 패치노트",
     description: "튜너봇 패치 및 업데이트 내역",
-    href: "/history",
+    href: "/TunerBot_Page/history",
     icon: ClipboardDocumentListIcon,
   },
   {
     name: "상태",
     description: "튜너봇 온라인 상태 확인",
-    href: "/status",
+    href: "/TunerBot_Page/status",
     icon: ChartBarIcon,
   },
 ];

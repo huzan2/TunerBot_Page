@@ -10,7 +10,7 @@ import History from "./routes/History";
 function App() {
   return (
     <div className="app">
-      <BrowserRouter basename="/TunerBot_Page/">
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Logo />
         <div className="flex justify-center">
           <NavBar />
